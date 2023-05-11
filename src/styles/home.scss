@@ -1,0 +1,63 @@
+.letscollaborate {
+  padding: 4rem 10rem;
+  > h1 {
+    font-size: 3rem;
+  }
+
+  > .letscollaborate_item {
+    padding-top: 3rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    > .collaborateCard {
+      display: flex;
+      justify-content: space-between;
+      gap: 5rem;
+
+      > section {
+        height: 25vmax;
+        &:first-of-type {
+          display: flex;
+          flex-direction: column;
+
+          justify-content: space-between;
+
+          > div {
+            > p {
+              &:first-of-type {
+                font-size: 4.5rem;
+                padding-bottom: 1rem;
+              }
+              &:last-of-type {
+                font-size: 1.5rem;
+                letter-spacing: 1px;
+              }
+            }
+          }
+          > a {
+            display: flex;
+            align-items: center;
+            font-size: 1.3rem;
+            color: black;
+            font-weight: 900;
+
+            &:hover {
+              color: rgb(99, 96, 96);
+            }
+            > svg {
+              width: 40px;
+            }
+          }
+        }
+        &:last-of-type {
+          > img {
+            width: 25vmax;
+            height: 25vmax;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "collaborateData": [
+    {
+      "heading": "AI + RPA is what we do",
+      "description": "Future-Proof your business. Drive efficiency, profitability and deliver on customer experience",
+      "imgSrc": "https://www.xivtech.io./rp2.jpg",
+      "linkTitle": "AI + RPA Automation",
+      "link": "/AIandRPAautomation"
+    },
+    {
+      "heading": "Make Bolder Choices",
+      "description": "Digital focused strategies to realize market-changing ideas",
+      "imgSrc": "https://www.xivtech.io./p1.png",
+      "linkTitle": "Build Better Apps",
+      "link": "/enterprise-apps"
+    },
+    {
+      "heading": "Innovate with Speed",
+      "description": "Create higher quality software, deliver on customer expectations and business goals",
+      "imgSrc": "https://www.xivtech.io./p2.jpg",
+      "linkTitle": "DevOps",
+      "link": "/delivery-pipeline-automation"
+    },
+    {
+      "heading": "Embrace Cloud",
+      "description": "With Cloud-First accelerate innovation and optimize performance",
+      "imgSrc": "https://www.xivtech.io./p3.jpg",
+      "linkTitle": "Cloud Services",
+      "link": "/cloud"
+    }
+  ]
+}
